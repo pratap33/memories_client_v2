@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c00aee8f-a90a-4d06-9d4f-90c061499bce/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/reactmemapp",
+    "appService.deploySubpath": "."
+}
